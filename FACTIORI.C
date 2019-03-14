@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <conio.h>
+void main ()
+{
+    //Factorial
+int n,fact=1,i;
+clrscr();
+printf ("Enter");
+scanf ("%d",&n);
+//int fact;
+ for(i=1;i<=n;i++)
+  {
+  fact*=i;
+  }
+ printf ("\n  FActorial %d",fact);
+ printf ("\n Ashish Arya    43513203118 ") ;
+getch();
+}

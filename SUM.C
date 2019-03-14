@@ -1,0 +1,20 @@
+ #include <stdio.h>
+ #include <conio.h>
+ void main()
+ {       clrscr();
+ int a,b, s,d,m,div;
+ printf("Enter the 1st num");
+ scanf ("%d",&a);
+  printf("Enter the 2st num");
+ scanf ("%d",&b);
+ s=a+b;
+ d=a-b;
+ m=a*b;
+ div=a/b;
+   printf("\n sum= %d",s);
+     printf("\n difference= %d",d);
+       printf("\n multiplication= %d",m);
+	 printf("\n Division= %d",div);
+	   printf("\n\n Ashish Arya   43513203118");
+	   getch();
+	   }

@@ -1,0 +1,12 @@
+#include <conio.h>
+#include <stdio.h>
+void main()
+{char ch;
+printf ("ENTER");
+scanf ("%c",&ch);
+int n;
+n= (int) n;
+printf ("\n Ascii value %d",n);
+printf ("\n Ashish Arya     43513203118");
+getch();
+}

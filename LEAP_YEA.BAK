@@ -1,0 +1,16 @@
+#include <conio.h>
+#include <stdio.h>
+void main()
+{int y;
+printf ("\n Enter the year");
+scanf ("%d",&y);
+if (y>99 && y<=9999)
+{
+  if (y%4==0)
+  printf ("\n Leap Year");
+  else
+  printf ("\n Not a leap year");
+ }
+ printf ("\n Ashish Arya        43513203118") ;
+ getch();
+}

@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <conio.h>
+void main()
+{ int n,rev;
+   clrscr();
+   printf("ENTER THE NO");
+   scanf("%d",&n);
+ if (n>99&&n<=999)
+ {int a=(n/100)%10;
+  int b=(n/10)%10;
+  int c=n%10;
+  rev=c*100+b*10+a;
+   printf ("\n rev of the no= %d",rev);
+ }
+ else
+ printf ("invalid input");
+
+ printf ("\n ASHISH ARYA      43513203118");
+ getch();
+}
