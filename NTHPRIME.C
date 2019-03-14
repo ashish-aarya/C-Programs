@@ -3,6 +3,7 @@
 void main()
 {// nth prime
 int n,count=0,i,j;
+clrscr();
 printf("Enter the Num") ;
 scanf ("%d",&n);
 for (i=1;i<=n;i++)
@@ -15,7 +16,7 @@ for (j=1;j<=i;j++)
  if (count==2)
  printf("  %d",i);
  }
- printf("\n Ashish Arya    43513203118 " );
+ printf("\n\n Ashish Arya    43513203118 " );
  getch();
 
 }

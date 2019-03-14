@@ -13,6 +13,6 @@ for (i=1;i<=p;i++ )
 power*=n;
 }
 printf ("\n Power of the value is %d",power);
-printf ("\n Ashish Arya      4313203118");
+printf ("\n\n Ashish Arya      4313203118");
 getch();
 }

@@ -12,6 +12,6 @@ if (y>99 && y<=9999)
   else
   printf ("\n Not a leap year");
  }
- printf ("\n Ashish Arya        43513203118") ;
+ printf ("\n Ashish Arya    43513203118") ;
  getch();
 }

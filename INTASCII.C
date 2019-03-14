@@ -8,6 +8,6 @@ printf ("ENTER");
 scanf ("%c",&ch);
 n= (int) ch;
 printf ("\n Ascii value %d",n);
-printf ("\n Ashish Arya     43513203118");
+printf ("\n\n Ashish    43513203118");
 getch();
 }

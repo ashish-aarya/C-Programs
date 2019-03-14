@@ -2,6 +2,7 @@
 #include <stdio.h>
 void main()
 {int y;
+clrscr();
 printf ("\n Enter the year");
 scanf ("%d",&y);
 if (y>99 && y<=9999)

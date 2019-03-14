@@ -2,11 +2,12 @@
 #include <conio.h>
 void main ()
 { //Disto BIn
-int n;
-printf ("ENter");
+int n,ans=0,mul=1;
+clrscr();
+printf ("Enter");
 scanf("%d",&n);
-int ans=0;
-int mul=1 ;
+//int ans=0;
+//int mul=1 ;
 while (n!=0)
 {
  int rem=n%2;
@@ -15,6 +16,6 @@ while (n!=0)
  mul=mul*10;
 }
 printf("Answer %d",ans);
-printf("\n Ashish Arya       43513203118");
+printf("\n\n Ashish Arya       43513203118");
 getch();
 }

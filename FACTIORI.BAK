@@ -1,13 +1,14 @@
 #include <stdio.h>
 #include <conio.h>
 void main ()
-{     //Factorial
-int n;
-//clrscr();
+{
+    //Factorial
+int n,fact=1,i;
+clrscr();
 printf ("Enter");
 scanf ("%d",&n);
-int fact;
- for (int i=1;i<=n;i++)
+//int fact;
+ for(i=1;i<=n;i++)
   {
   fact*=i;
   }

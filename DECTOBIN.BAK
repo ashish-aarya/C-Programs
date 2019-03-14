@@ -15,5 +15,6 @@ while (n!=0)
  mul=mul*10;
 }
 printf("Answer %d",ans);
+printf("\n Ashish Arya       43513203118");
 getch();
 }

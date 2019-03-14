@@ -16,7 +16,7 @@ for (i=3;i<=n;i++)
  b=sum;
 
 }
-printf(". \n Ashish Arya  43513203118") ;
+printf(". \n\n Ashish Arya  43513203118") ;
 
 getch();
 

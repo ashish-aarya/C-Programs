@@ -4,7 +4,6 @@ void main(){
 //power
 int n,p,power=1,i;
 clrscr();
-scanf ("%d",&n);
 printf ("Enter the no");
 scanf ("%d",&n);
 printf("enter the power");

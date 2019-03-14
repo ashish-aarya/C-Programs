@@ -13,6 +13,6 @@ scanf ("%d",&n);
   fact*=i;
   }
  printf ("\n  FActorial %d",fact);
- printf ("\n Ashish Arya    43513203118 ") ;
+ printf ("\n\n Ashish Arya    43513203118 ") ;
 getch();
 }
