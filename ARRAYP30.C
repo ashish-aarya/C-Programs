@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <conio.h>
+void main ()
+{
+int n,i,max,min;
+int ar[10];
+clrscr();
+printf("Enter the value in array");
+
+for (i=0;i<10;i++ )
+scanf ("%d",&ar[i]);
+max=ar[0];
+min=ar[0];
+for (i=0;i<10;i++ )
+{
+if (max<ar[i])
+max=ar[i];
+if(min>ar[i])
+min=ar[i];
+}
+printf ("Max:%d     Min:%d",max,min);
+   printf("\n \n Ashish Arya   43513203118");
+   getch();
+
+
+}

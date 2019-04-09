@@ -1,5 +1,5 @@
-#include < stdio.h>
-#include <conio.h>
+#include < stdio>
+#include <conio>
 void main ()
 { //Disto BIn
 int n,ans=0,mul=1;
